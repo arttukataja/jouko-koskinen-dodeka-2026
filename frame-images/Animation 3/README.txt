@@ -1,7 +1,7 @@
 Dodecahedron Animation Export
 ==============================
-Animation: Animation 24
-Export Date: 2026-02-08 18:43:31
+Animation: Animation 3
+Export Date: 2026-02-20 16:17:35
 Frame Rate: 60 fps
 Resolution: 1920x1080
 
