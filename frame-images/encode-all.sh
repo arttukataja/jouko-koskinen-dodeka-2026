@@ -1,4 +1,4 @@
-./encode.sh "Animation 12"
-./encode.sh "Animation 13"
-./encode.sh "Animation 15"
-./encode.sh "Animation 16"
+./encode.sh "Animation 2"
+./encode.sh "Animation 3"
+./encode.sh "Animation 7"
+#./encode.sh "Animation 16"
